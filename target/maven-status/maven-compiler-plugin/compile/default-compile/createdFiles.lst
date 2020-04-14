@@ -1,0 +1,5 @@
+com\orangehrmlive\demo\opensource\utility\Utility.class
+com\orangehrmlive\demo\opensource\basepage\BasePage.class
+com\orangehrmlive\demo\opensource\pages\HomePage.class
+com\orangehrmlive\demo\opensource\pages\AccountPage.class
+com\orangehrmlive\demo\opensource\browserselector\BrowserSelector.class
